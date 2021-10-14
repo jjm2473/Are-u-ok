@@ -1,13 +1,12 @@
-# ARS2-Firmware
+## 随便玩玩
 
-
-#### 买了个ARS2，玩玩，自己做了个自用固件。
-
-#### [ARS2](https://easepi.linkease.com/)第三方固件
+#### 整了个小主机，玩玩，自己做了个自用固件。
 
 #### 固件详情：
 
-* 管理网关：192.168.2.100 无密码
+* [固件下载](https://github.com/AUK9527/Are-u-ok/releases)
+
+* 管理网关：192.168.100.1  无密码
 
 * 不要和其他ARS2固件混刷，必须不保留配置刷入
 
@@ -19,6 +18,13 @@
 
 * 支持sftp
 
-* 因为一些插件已经内置，所以不内置官方固件的iStore
+* 因为一些插件已经内置，所以无Store
+
+
+#### iStore插件包
+
+* [去看看](https://github.com/AUK9527/Are-u-ok/tree/main/apps)
+
+
 
 
